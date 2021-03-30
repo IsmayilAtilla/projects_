@@ -1,0 +1,12 @@
+C:\Users\atill\GitHub_projects\projects_\Func_\Func_\bin\Debug\netcoreapp3.1\Func_.exe
+C:\Users\atill\GitHub_projects\projects_\Func_\Func_\bin\Debug\netcoreapp3.1\Func_.deps.json
+C:\Users\atill\GitHub_projects\projects_\Func_\Func_\bin\Debug\netcoreapp3.1\Func_.runtimeconfig.json
+C:\Users\atill\GitHub_projects\projects_\Func_\Func_\bin\Debug\netcoreapp3.1\Func_.runtimeconfig.dev.json
+C:\Users\atill\GitHub_projects\projects_\Func_\Func_\bin\Debug\netcoreapp3.1\Func_.dll
+C:\Users\atill\GitHub_projects\projects_\Func_\Func_\bin\Debug\netcoreapp3.1\Func_.pdb
+C:\Users\atill\GitHub_projects\projects_\Func_\Func_\obj\Debug\netcoreapp3.1\Func_.AssemblyInfoInputs.cache
+C:\Users\atill\GitHub_projects\projects_\Func_\Func_\obj\Debug\netcoreapp3.1\Func_.AssemblyInfo.cs
+C:\Users\atill\GitHub_projects\projects_\Func_\Func_\obj\Debug\netcoreapp3.1\Func_.csproj.CoreCompileInputs.cache
+C:\Users\atill\GitHub_projects\projects_\Func_\Func_\obj\Debug\netcoreapp3.1\Func_.dll
+C:\Users\atill\GitHub_projects\projects_\Func_\Func_\obj\Debug\netcoreapp3.1\Func_.pdb
+C:\Users\atill\GitHub_projects\projects_\Func_\Func_\obj\Debug\netcoreapp3.1\Func_.genruntimeconfig.cache

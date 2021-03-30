@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZwJE3dnpwMkbCCpjmdRsITZW+bijcL6UMO4/1WHjlNexmHBmWFOR+xMjocTwuM/lHpAcaWkA20V6mKqJMdDmCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\atill\\GitHub_projects\\projects_\\Func_\\Func_\\Func_.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atill\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
